@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693180379379",
+    "project_id": "cigaz-73871",
+    "storage_bucket": "cigaz-73871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693180379379:android:87ed8fb52b75473f320786",
+        "android_client_info": {
+          "package_name": "com.example.cigaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693180379379-1h18spt9crff41c9qsfes5hlmno4tkto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cigaz",
+            "certificate_hash": "9ffe50d1b4693246e058b12fbaa8c12fe0f5e770"
+          }
+        },
+        {
+          "client_id": "693180379379-t0ri1vm8qrdh6iaqa1m30mlju48hl9eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oipL3XVfTCeOyp7TYrqhCxx-QLKMRRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693180379379-t0ri1vm8qrdh6iaqa1m30mlju48hl9eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
